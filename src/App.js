@@ -750,7 +750,7 @@ Mumbai, Maharashtra 400031</li>
                   <h3 className={`text-lg font-semibold mb-4 ${darkMode ? 'text-white' : 'text-gray-800'}`}>Follow Us</h3>
                   <div className="flex space-x-6">
                     <a 
-                      href="https://x.com/de_mirage_fan" 
+                      href="https://x.com/Raghavvv23" 
                       className={`${darkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} flex items-center gap-2 transition-all duration-300 hover:scale-110 hover:text-blue-500`}
                       target="_blank"
                       rel="noopener noreferrer"
@@ -759,7 +759,7 @@ Mumbai, Maharashtra 400031</li>
                       <span>Twitter</span>
                     </a>
                     <a 
-                      href="https://www.linkedin.com/in/shivansh-pratap-singh-23b3b92b1" 
+                      href="https://www.linkedin.com/in/raghav-agrawal-4431932ab/" 
                       className={`${darkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} flex items-center gap-2 transition-all duration-300 hover:scale-110 hover:text-blue-500`}
                       target="_blank"
                       rel="noopener noreferrer"
@@ -768,7 +768,7 @@ Mumbai, Maharashtra 400031</li>
                       <span>LinkedIn</span>
                     </a>
                     <a 
-                      href="https://github.com/ShiiiivanshSingh/TECHNOVATION-HACKATHON-2025-Entry" 
+                      href="https://github.com/Raaaghavagrawal/Raaaghavagrawal" 
                       className={`${darkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} flex items-center gap-2 transition-all duration-300 hover:scale-110 hover:text-blue-500`}
                       target="_blank"
                       rel="noopener noreferrer"
